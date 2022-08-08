@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kjh7330/node_udemy/issues"
   },
-  "homepage": "https://github.com/kjh7330/node_udemy#readme"
+  "homepage": "https://github.com/kjh7330/node_udemy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
